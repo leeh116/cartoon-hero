@@ -1,9 +1,9 @@
 body{
-	background-color: purple
+	background-color: darkgrey
 }
 
 h1{
-	color: orange;
+	color: lightblue;
 	font-size: 90px;
 	text-decoration: underline;
 }
@@ -18,7 +18,7 @@ h1{
 
 h2{
 	font-size: 22px;
-	color: green;
+	color: lightgreen;
 }
 
 span{
